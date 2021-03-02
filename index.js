@@ -1,4 +1,4 @@
-x = 42
+// Maja Cannavo
 
 const summationFor = (list)=>{
   let sum = 0;
