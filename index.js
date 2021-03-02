@@ -1,4 +1,4 @@
-// Maja Cannavo
+// Maja Cannavo 3-2-21
 
 const summationFor = (list)=>{
   let sum = 0;
